@@ -128,9 +128,9 @@ __▒▒______██____▒░▒
 /""")
 
     elif message.text== "Rido":
-        bot.reply_to(message,"""\ hahahhahah mi dissocio!!!
-──────▄▌▐▀▀▀▀▀▀▀▀▀▀▀▀▌
-───▄▄██▌█ mi dissocio▐
+        bot.reply_to(message,"""\ hahahhahah ciaoooo!!!
+     ▄▌▐▀▀▀▀▀▀▀▀▀▀▀▀▌
+   ▄▄██▌█   ciaooo   ▐
 ▄▄▄▌▐██▌█░░░░░░░░░░░░▐
 ███████▌█▄▄▄▄▄▄▄▄▄▄▄▄▌
 ▀❍▀▀▀▀▀▀▀❍❍▀▀▀▀▀▀❍❍▀
