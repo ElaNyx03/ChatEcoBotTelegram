@@ -786,8 +786,10 @@ Add `apihelper.SESSION_TIME_TO_LIVE = 5 * 60` to your initialisation to force re
 
 
 
-<p align="center">
-  <img width="30%" src="1701192416682.png"/>
-</p>
-<p align="center">
-𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 ::: ElaNyx03 :::</p>
+<div align="center">
+
+<img align="center" title="Github" alt="Github" width="200px" src="1701192416682.png" /> 
+<h5>𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 ::: ElaNyx :::</h5>
+<img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="30px">  
+
+</div>
